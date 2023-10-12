@@ -1,0 +1,5 @@
+- https://laravel.com/docs/
+- https://refactoring.guru/fr/design-patterns
+- https://github.com/spatie
+- https://regex101.com/
+- https://www.phpbench.com/

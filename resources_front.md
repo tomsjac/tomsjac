@@ -1,0 +1,6 @@
+- Base photos open source : https://unsplash.com/
+- Inspiration couleurs : https://coolors.co/
+- https://lottiefiles.com/
+- https://simpleicons.org/
+- https://responsiveviewer.org/
+- https://cssreference.io/
